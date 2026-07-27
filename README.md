@@ -14,6 +14,7 @@
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00F0FF?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected?tab=overview)
 [![Flagship](https://img.shields.io/badge/FLAGSHIP-AEROGIS--SENTINEL-FF2E54?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected/Aerogis-Sentinel)
 [![Degree](https://img.shields.io/badge/TELKOM_UNIV-COMPUTER_SCIENCE-00F0FF?style=flat-square&labelColor=0D1117)](https://telkomuniversity.ac.id)
+
 [![Email](https://img.shields.io/badge/EMAIL-zarifalko24%40gmail.com-00F0FF?style=flat-square&logo=gmail&logoColor=0D1117)](mailto:zarifalko24@gmail.com)
 [![Discord](https://img.shields.io/badge/DISCORD-DIRECT_COMM-00F0FF?style=flat-square&logo=discord&logoColor=0D1117)](https://discord.com/users/512990966827974657)
 
