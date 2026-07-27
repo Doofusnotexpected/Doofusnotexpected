@@ -4,7 +4,7 @@
 
 ```
  ┌─────────────────────────────────────────────────────────────────────────────────────────┐
- │ USER            : M. AVANDRA LUKITO                                                     │
+ │ USER           : M. AVANDRA LUKITO                                                      │
  │ ACADEMIC TRACK : B.S. COMPUTER SCIENCE @ TELKOM UNIVERSITY BANDUNG                      │
  │ CORE FOCUS     : SYSTEMS PROGRAMMING // APPSEC // LOW-LEVEL EXECUTION // CYBERSECURITY  │
  │ LOCATION       : BANDUNG, INDONESIA [UTC+7]                                             │
