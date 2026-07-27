@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=200&section=header&text=AVANDRA%20//%20SYSTEMS%20AND%20APPSEC&fontSize=36&fontColor=00F0FF&fontAlignY=35&desc=B.S.%20COMPUTER%20SCIENCE%20%7C%20LOW-LEVEL%20EXECUTION%20AND%20ACTIVE%20DEFENSE&descSize=13&descAlignY=62&descColor=8B949E)
+![Header Banner](https://capsule-render.vercel.app/api?type=slice&amp;color=0D1117&amp;height=200&amp;section=header&amp;text=AVANDRA%20//%20SYSTEMS%20AND%20APPSEC&amp;fontSize=36&amp;fontColor=00F0FF&amp;fontAlignY=35&amp;desc=B.S.%20COMPUTER%20SCIENCE%20%7C%20LOW-LEVEL%20EXECUTION%20AND%20ACTIVE%20DEFENSE&amp;descSize=13&amp;descAlignY=62&amp;descColor=8B949E)
 
 | Parameter | Specification |
 | :--- | :--- |
@@ -11,11 +11,11 @@
 
 <br>
 
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00F0FF?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected?tab=overview)
-[![Flagship](https://img.shields.io/badge/FLAGSHIP-AEROGIS--SENTINEL-FF2E54?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected/Aerogis-Sentinel)
-[![Degree](https://img.shields.io/badge/TELKOM_UNIV-COMPUTER_SCIENCE-00F0FF?style=flat-square&labelColor=0D1117)](https://telkomuniversity.ac.id)
-[![Email](https://img.shields.io/badge/EMAIL-zarifalko24%40gmail.com-00F0FF?style=flat-square&logo=gmail&logoColor=0D1117)](mailto:zarifalko24@gmail.com)
-[![Discord](https://img.shields.io/badge/DISCORD-DIRECT_COMM-00F0FF?style=flat-square&logo=discord&logoColor=0D1117)](https://discord.com/users/512990966827974657)
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00F0FF?style=flat-square&amp;labelColor=0D1117)](https://github.com/Doofusnotexpected?tab=overview)
+[![Flagship](https://img.shields.io/badge/FLAGSHIP-AEROGIS--SENTINEL-FF2E54?style=flat-square&amp;labelColor=0D1117)](https://github.com/Doofusnotexpected/Aerogis-Sentinel)
+[![Degree](https://img.shields.io/badge/TELKOM_UNIV-COMPUTER_SCIENCE-00F0FF?style=flat-square&amp;labelColor=0D1117)](https://telkomuniversity.ac.id)
+[![Email](https://img.shields.io/badge/EMAIL-zarifalko24%40gmail.com-00F0FF?style=flat-square&amp;logo=gmail&amp;logoColor=0D1117)](mailto:zarifalko24@gmail.com)
+[![Discord](https://img.shields.io/badge/DISCORD-DIRECT_COMM-00F0FF?style=flat-square&amp;logo=discord&amp;logoColor=0D1117)](https://discord.com/users/512990966827974657)
 
 </div>
 
@@ -49,20 +49,20 @@ Aerogis-Sentinel is an asynchronous cybersecurity honeypot built to mitigate hig
 
 ### ⚙️ Technical Stack & Tooling
 
-*The badge backgrounds seamlessly blend into GitHub Dark Mode (`#0D1117`) so only the vibrant Blue Team (Defensive/Navy) and Red Team (Offensive/Maroon) icons are visible.*
+*The badge backgrounds are seamlessly color-matched to GitHub Dark Mode (`#0D1117`) so only the vibrant Blue Team (Defensive/Navy) and Red Team (Offensive/Maroon) icons pop directly off the page.*
 
 #### 🟦 Blue Team & Defensive Infrastructure
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=1E40AF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=1E40AF)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=1E40AF)
-![Wireshark](https://img.shields.io/badge/Network_Telemetry-0D1117?style=flat-square&logo=wireshark&logoColor=1E40AF)
-![Security Scorecard](https://img.shields.io/badge/AppSec-0D1117?style=flat-square&logo=securityscorecard&logoColor=1E40AF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=2563EB)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=2563EB)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=2563EB)
+![Wireshark](https://img.shields.io/badge/Network_Telemetry-0D1117?style=flat-square&logo=wireshark&logoColor=2563EB)
+![Security Scorecard](https://img.shields.io/badge/AppSec-0D1117?style=flat-square&logo=securityscorecard&logoColor=2563EB)
 
 #### 🟥 Red Team Simulation & Low-Level Execution
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=800000)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=800000)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=800000)
-![Lua](https://img.shields.io/badge/Lua-0D1117?style=flat-square&logo=lua&logoColor=800000)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=991B1B)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=991B1B)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=991B1B)
+![Lua](https://img.shields.io/badge/Lua-0D1117?style=flat-square&logo=lua&logoColor=991B1B)
 
 ---
 
@@ -70,13 +70,12 @@ Aerogis-Sentinel is an asynchronous cybersecurity honeypot built to mitigate hig
 
 <div align="center">
 
-![GitHub Overview Stats](https://github-readme-stats.vercel.app/api?username=Doofusnotexpected&show_icons=true&theme=dark&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=00F0FF&border_color=1E3A8A)
+<img src="https://github-readme-stats.vercel.app/api?username=Doofusnotexpected&amp;show_icons=true&amp;theme=dark&amp;bg_color=0D1117&amp;title_color=00F0FF&amp;text_color=8B949E&amp;icon_color=00F0FF&amp;border_color=1E3A8A" width="48%" alt="GitHub Overview Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doofusnotexpected&amp;layout=compact&amp;theme=dark&amp;bg_color=0D1117&amp;title_color=00F0FF&amp;text_color=8B949E&amp;border_color=1E3A8A" width="48%" alt="Top Languages Stats" />
 
-![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Doofusnotexpected&layout=compact&theme=dark&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&border_color=1E3A8A)
+<br><br>
 
-<br>
-
-![GitHub Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doofusnotexpected&theme=dark&background=0D1117&stroke=1E3A8A&alarm=FF2E54&fire=00F0FF&ring=00F0FF&currStreakLabel=00F0FF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Doofusnotexpected&amp;theme=dark&amp;background=0D1117&amp;stroke=1E3A8A&amp;alarm=FF2E54&amp;fire=00F0FF&amp;ring=00F0FF&amp;currStreakLabel=00F0FF" alt="GitHub Commit Streak" />
 
 </div>
 
@@ -84,6 +83,6 @@ Aerogis-Sentinel is an asynchronous cybersecurity honeypot built to mitigate hig
 
 ### 📫 Get in Touch
 
-* ![Gmail Icon](https://img.shields.io/badge/-0D1117?style=flat-square&logo=gmail&logoColor=00F0FF) **Email:** [zarifalko24@gmail.com](mailto:zarifalko24@gmail.com)
-* ![Discord Icon](https://img.shields.io/badge/-0D1117?style=flat-square&logo=discord&logoColor=00F0FF) **Discord:** [Direct Communication](https://discord.com/users/512990966827974657)
-* ![Location Icon](https://img.shields.io/badge/-0D1117?style=flat-square&logo=googlemaps&logoColor=00F0FF) **Location:** Bandung, Indonesia `[UTC+7]`
+* ![Gmail Icon](https://img.shields.io/badge/-zarifalko24%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00F0FF) **Email:** [zarifalko24@gmail.com](mailto:zarifalko24@gmail.com)
+* ![Discord Icon](https://img.shields.io/badge/-Direct_Message-0D1117?style=flat-square&logo=discord&logoColor=00F0FF) **Discord:** [Contact via Discord](https://discord.com/users/512990966827974657)
+* ![Location Icon](https://img.shields.io/badge/-Bandung%2C_Indonesia-0D1117?style=flat-square&logo=googlemaps&logoColor=00F0FF) **Location:** Bandung, Indonesia `[UTC+7]`
