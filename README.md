@@ -72,9 +72,33 @@
 
 </div>
 
+<div align="center">
+
 ---
 
-### 📬 Connect & Telemetry
+### 📡 Connect & Telemetry
 
-[![Email](https://img.shields.io/badge/Email-zarifalko24%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00F0FF)](mailto:zarifalko24@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Direct_Message-0D1117?style=flat-square&logo=discord&logoColor=00F0FF)](https://discord.com/users/512990966827974657)
+<table>
+  <tr>
+    <td align="center" width="240">
+      <a href="mailto:zarifalko24@gmail.com">
+        <img src="https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" height="60" alt="Gmail"/>
+      </a>
+      <br/><br/>
+      <b>EMAIL</b>
+      <br/>
+      <code>zarifalko24@gmail.com</code>
+    </td>
+    <td align="center" width="240">
+      <a href="https://discord.com/users/512990966827974657">
+        <img src="https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=discord&logoColor=00F0FF" height="60" alt="Discord"/>
+      </a>
+      <br/><br/>
+      <b>DISCORD</b>
+      <br/>
+      <code>allcapitaldude</code>
+    </td>
+  </tr>
+</table>
+
+</div>
