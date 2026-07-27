@@ -2,84 +2,73 @@
 
 ```
  ┌────────────────────────────────────────────────────────────────────────┐
- │ OPERATOR       : M. AVANDRA LUKITO                                     │
- │ ACADEMIC TRACK : Computer Science (S1) @ TELKOM UNIVERSITY BANDUNG     │
- │ CORE SPECS     : SYSTEMS PROGRAMMING // AUTONOMOUS SECURITY // KERNEL  │
+ │ ENGINEER       : M. AVANDRA LUKITO                                     │
+ │ ACADEMIC TRACK : S1 INFORMATIKA @ TELKOM UNIVERSITY BANDUNG            │
+ │ CORE FOCUS     : SYSTEMS PROGRAMMING // APPSEC // LOW-LEVEL EXECUTION  │
  │ LOCATION       : BANDUNG, INDONESIA [UTC+7]                            │
  └────────────────────────────────────────────────────────────────────────┘
 ```
 
-# DOOFU // SYSTEMS & APPSEC
+# AVANDRA // SYSTEMS & APPSEC ENGINEERING
 
 *Low-level execution, active perimeter defense, and asynchronous threat analysis.*
 
-[![Status: Operational](https://img.shields.io/badge/OPERATIONAL_STATUS-ACTIVE-00F0FF?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected)
-[![Primary Target](https://img.shields.io/badge/FLAGSHIP_CORE-AEROGIS--SENTINEL-FF2E54?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected/Aerogis-Sentinel)
+[![Status: Operational](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00F0FF?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected)
+[![Primary Target](https://img.shields.io/badge/FLAGSHIP-AEROGIS--SENTINEL-FF2E54?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected/Aerogis-Sentinel)
 [![Academic Track](https://img.shields.io/badge/TELKOM_UNIV-S1_INFORMATIKA-00F0FF?style=flat-square&labelColor=0D1117)](https://telkomuniversity.ac.id)
 
 </div>
 
 ---
 
-### 📡 System Telemetry & Capabilities
+### 📡 Core Capabilities & Focus
 
 ```
-[SYSTEM LOG] Initializing operator telemetry...
-[DIAGNOSTICS] High-throughput systems execution & memory optimization verified.
-[SECURITY]    Kernel-level defense triggers & AI threat forensics active.
+[SYSTEM LOG] Initializing runtime diagnostics...
+[CAPABILITIES] Multi-threaded event loops & asynchronous network handling verified.
+[SECURITY]     Local LLM threat forensics (DeepSeek-R1) & automated mitigation active.
 ```
 
-* **Core Focus:** Building high-throughput, low-overhead security architectures that maintain execution stability under extreme attack vectors.
-* **Specialization:** Python async engines, local LLM integration (DeepSeek-R1), Linux memory diagnostics, and C/C++ low-level operations.
-* **Engineering Philosophy:** Minimal surface area, zero bloat, maximum execution speed. Low Radar Cross-Section (RCS) software design.
+* **Core Specialization:** Building high-throughput, low-overhead security architectures that maintain stability under heavy network stress.
+* **Technical Domains:** Python async engines, local LLM integrations, Linux memory diagnostics, and C/C++ low-level systems execution.
+* **Engineering Philosophy:** Minimal surface area, zero bloat, high execution speed.
 
 ---
 
-### 🛡️ Flagship Platform: Aerogis-Sentinel
+### 🛡️ Flagship Project: Aerogis-Sentinel
 
 > **Local-Perimeter AI Honeypot & Active Defense Cell**
 
-| System Metric | Telemetry / Specification |
+| Architecture Metric | Technical Specification |
 | :--- | :--- |
-| **Engine Architecture** | Asynchronous multi-threaded defense matrix with local DeepSeek-R1 threat forensics |
-| **Tested Stress Capacity**| Neutralized 16-threaded Hydra brute-force swarms against the 14.3M RockYou wordlist |
-| **Defense Trigger** | Instant kernel-level IP exile, persistent SQLite threat logs, zero host firewall latency |
-| **Source Code** | [Doofusnotexpected/Aerogis-Sentinel](https://github.com/Doofusnotexpected/Aerogis-Sentinel) |
+| **Engine Core** | Asynchronous multi-threaded defense matrix with local DeepSeek-R1 threat analysis |
+| **Stress Benchmark** | Successfully neutralized 16-threaded Hydra brute-force swarms against 14.3M password wordlist |
+| **Mitigation Trigger** | Instant kernel-level IP exile, persistent SQLite forensics, zero firewall latency |
+| **Repository** | [Doofusnotexpected/Aerogis-Sentinel](https://github.com/Doofusnotexpected/Aerogis-Sentinel) |
 
 ---
 
-### ⚙️ Tactical Arsenal & Stack
+### ⚙️ Technical Stack & Tools
 
-#### Core Languages & Scripting
+#### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F0FF)
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=00F0FF)
-![Bash/Shell](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=00F0FF)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=00F0FF)
 ![HTML5/CSS3](https://img.shields.io/badge/Web-0D1117?style=flat-square&logo=html5&logoColor=00F0FF)
 ![Lua](https://img.shields.io/badge/Lua-0D1117?style=flat-square&logo=lua&logoColor=00F0FF)
 
-#### Systems & Forensics Infrastructure
+#### Infrastructure & Security Environment
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FF2E54)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=FF2E54)
 ![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=FF2E54)
-![Hardware Optimization](https://img.shields.io/badge/Hardware_Tweaking-0D1117?style=flat-square&logo=cpu&logoColor=FF2E54)
+![Systems Tweaking](https://img.shields.io/badge/Hardware_Optimization-0D1117?style=flat-square&logo=cpu&logoColor=FF2E54)
 
 ---
 
-### 📊 Tactical Activity Log
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│ STATUS : Active Version Deployment & Refactoring                        │
-│ TARGET : Aerogis v13 Staging Phase                                     │
-└────────────────────────────────────────────────────────────────────────┘
-```
+### 📊 Development Metrics
 
 <div align="center">
 
-```
-   ▲
-  █ █    A E R O G I S  //  S E N T I N E L
- █   █   Telkom University • Systems & Cybersecurity Focus
-```
+![Avandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doofusnotexpected&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=FF2E54)
 
 </div>
