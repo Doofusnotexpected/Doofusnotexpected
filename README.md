@@ -2,14 +2,14 @@
 
 ```
  ┌────────────────────────────────────────────────────────────────────────┐
- │ OPERATOR IDENT : M. AVANDRA LUKITO                                     │
- │ ACADEMIC TRACK : S1 INFORMATIKA @ TELKOM UNIVERSITY BANDUNG            │
+ │ OPERATOR       : M. AVANDRA LUKITO                                     │
+ │ ACADEMIC TRACK : Computer Science (S1) @ TELKOM UNIVERSITY BANDUNG     │
  │ CORE SPECS     : SYSTEMS PROGRAMMING // AUTONOMOUS SECURITY // KERNEL  │
  │ LOCATION       : BANDUNG, INDONESIA [UTC+7]                            │
  └────────────────────────────────────────────────────────────────────────┘
 ```
 
-# AVANDRA // SYSTEMS & APPSEC
+# DOOFU // SYSTEMS & APPSEC
 
 *Low-level execution, active perimeter defense, and asynchronous threat analysis.*
 
