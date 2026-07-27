@@ -3,12 +3,12 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=200&section=header&text=AVANDRA%20//%20SYSTEMS%20AND%20APPSEC&fontSize=36&fontColor=00F0FF&fontAlignY=35&desc=B.S.%20COMPUTER%20SCIENCE%20%7C%20LOW-LEVEL%20EXECUTION%20AND%20ACTIVE%20DEFENSE&descSize=13&descAlignY=62&descColor=8B949E)
 
 ```
- ┌────────────────────────────────────────────────────────────────────────┐
- │ ENGINEER       : M. AVANDRA LUKITO                                     │
- │ ACADEMIC TRACK : B.S. COMPUTER SCIENCE @ TELKOM UNIVERSITY BANDUNG     │
- │ CORE FOCUS     : SYSTEMS PROGRAMMING // APPSEC // LOW-LEVEL EXECUTION  │
- │ LOCATION       : BANDUNG, INDONESIA [UTC+7]                            │
- └────────────────────────────────────────────────────────────────────────┘
+ ┌─────────────────────────────────────────────────────────────────────────────────────────┐
+ │ USER            : M. AVANDRA LUKITO                                                     │
+ │ ACADEMIC TRACK : B.S. COMPUTER SCIENCE @ TELKOM UNIVERSITY BANDUNG                      │
+ │ CORE FOCUS     : SYSTEMS PROGRAMMING // APPSEC // LOW-LEVEL EXECUTION // CYBERSECURITY  │
+ │ LOCATION       : BANDUNG, INDONESIA [UTC+7]                                             │
+ └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00F0FF?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected)
