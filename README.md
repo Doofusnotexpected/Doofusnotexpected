@@ -14,7 +14,6 @@
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00F0FF?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected?tab=overview)
 [![Flagship](https://img.shields.io/badge/FLAGSHIP-AEROGIS--SENTINEL-FF2E54?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected/Aerogis-Sentinel)
 [![Degree](https://img.shields.io/badge/TELKOM_UNIV-COMPUTER_SCIENCE-00F0FF?style=flat-square&labelColor=0D1117)](https://telkomuniversity.ac.id)
-
 [![Email](https://img.shields.io/badge/EMAIL-zarifalko24%40gmail.com-00F0FF?style=flat-square&logo=gmail&logoColor=0D1117)](mailto:zarifalko24@gmail.com)
 [![Discord](https://img.shields.io/badge/DISCORD-DIRECT_COMM-00F0FF?style=flat-square&logo=discord&logoColor=0D1117)](https://discord.com/users/512990966827974657)
 
@@ -24,12 +23,10 @@
 
 ### 📡 Core Capabilities & System Architecture
 
-```
-[SYSTEM LOG]   Initializing execution runtime diagnostics...
-[CAPABILITIES] Multi-threaded event loops & asynchronous network sockets verified.
-[SECURITY]     Local LLM threat forensics (DeepSeek-R1) & active kernel exile ready.
-[HARDWARE]     Custom system kernel tuning & extreme hardware optimization active.
-```
+> **`[SYSTEM LOG]`** `Initializing execution runtime diagnostics...`  
+> **`[CAPABILITIES]`** `Multi-threaded event loops & asynchronous network sockets verified.`  
+> **`[SECURITY]`** `Local LLM threat forensics (DeepSeek-R1) & active kernel exile ready.`  
+> **`[HARDWARE]`** `Custom system kernel tuning & extreme hardware optimization active.`  
 
 * **Core Specialization:** Engineering resilient, high-throughput active defense systems and low-level software architectures designed to withstand high-velocity distributed network attacks under extreme pressure.
 * **Technical Domains:** Asynchronous Python event architectures, real-time local LLM pipeline streaming, raw POSIX socket handling, custom Linux system telemetry, and C/C++ memory optimization.
@@ -88,16 +85,12 @@ Aerogis-Sentinel is an autonomous, asynchronous active defense system built to e
 
 ### 📡 Direct Telemetry & Signal Terminal
 
-```
-+-------------------------------------------------------------------------------+
-|  TRANSMISSION PROTOCOL: ACTIVE                                                |
-|  For security consulting, AppSec inquiries, or collaboration on Aerogis:       |
-|                                                                               |
-|  [>] DIRECT EMAIL    : zarifalko24@gmail.com                                  |
-|  [>] DISCORD GATE    : [https://discord.com/users/512990966827974657](https://discord.com/users/512990966827974657)          |
-|  [>] LOCATION        : BANDUNG, INDONESIA [UTC+7]                             |
-+-------------------------------------------------------------------------------+
-```
+> **TRANSMISSION PROTOCOL:** `ACTIVE`  
+> For security consulting, AppSec inquiries, or collaboration on Aerogis:  
+> 
+> * **[>] DIRECT EMAIL:** `zarifalko24@gmail.com`  
+> * **[>] DISCORD GATE:** `https://discord.com/users/512990966827974657`  
+> * **[>] LOCATION:** `BANDUNG, INDONESIA [UTC+7]`  
 
 <div align="center">
 
