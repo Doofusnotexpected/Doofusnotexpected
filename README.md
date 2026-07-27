@@ -3,17 +3,19 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=200&section=header&text=AVANDRA%20//%20SYSTEMS%20AND%20APPSEC&fontSize=36&fontColor=00F0FF&fontAlignY=35&desc=B.S.%20COMPUTER%20SCIENCE%20%7C%20LOW-LEVEL%20EXECUTION%20AND%20ACTIVE%20DEFENSE&descSize=13&descAlignY=62&descColor=8B949E)
 
 ```
- ┌─────────────────────────────────────────────────────────────────────────────────────────┐
- │ USER           : M. AVANDRA LUKITO                                                      │
- │ ACADEMIC TRACK : B.S. COMPUTER SCIENCE @ TELKOM UNIVERSITY BANDUNG                      │
- │ CORE FOCUS     : SYSTEMS PROGRAMMING // APPSEC // LOW-LEVEL EXECUTION // CYBERSECURITY  │
- │ LOCATION       : BANDUNG, INDONESIA [UTC+7]                                             │
- └─────────────────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────────────┐
+│ USER           : M. AVANDRA LUKITO                                                      │
+│ ACADEMIC TRACK : B.S. COMPUTER SCIENCE @ TELKOM UNIVERSITY BANDUNG                      │
+│ CORE FOCUS     : SYSTEMS PROGRAMMING // APPSEC // LOW-LEVEL EXECUTION // CYBERSECURITY  │
+│ LOCATION       : BANDUNG, INDONESIA [UTC+7]                                             │
+└─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00F0FF?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected)
 [![Flagship](https://img.shields.io/badge/FLAGSHIP-AEROGIS--SENTINEL-FF2E54?style=flat-square&labelColor=0D1117)](https://github.com/Doofusnotexpected/Aerogis-Sentinel)
 [![Degree](https://img.shields.io/badge/TELKOM_UNIV-COMPUTER_SCIENCE-00F0FF?style=flat-square&labelColor=0D1117)](https://telkomuniversity.ac.id)
+[![Email](https://img.shields.io/badge/EMAIL-zarifalko24%40gmail.com-00F0FF?style=flat-square&logo=gmail&logoColor=0D1117)](mailto:zarifalko24@gmail.com)
+[![Discord](https://img.shields.io/badge/DISCORD-DIRECT_MSG-00F0FF?style=flat-square&logo=discord&logoColor=0D1117)](https://discord.com/users/512990966827974657)
 
 </div>
 
@@ -22,7 +24,7 @@
 ### 📡 Core Capabilities & System Architecture
 
 ```
-[SYSTEM LOG]   Initializing execution runtime diagnostics...
+[SYSTEM LOG]    Initializing execution runtime diagnostics...
 [CAPABILITIES] Multi-threaded event loops & asynchronous network sockets verified.
 [SECURITY]     Local LLM threat forensics (DeepSeek-R1) & active kernel exile ready.
 ```
@@ -72,33 +74,12 @@
 
 </div>
 
-<div align="center">
-
 ---
 
-### 📡 Connect & Telemetry
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="240">
-      <a href="mailto:zarifalko24@gmail.com">
-        <img src="https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" height="60" alt="Gmail"/>
-      </a>
-      <br/><br/>
-      <b>EMAIL</b>
-      <br/>
-      <code>zarifalko24@gmail.com</code>
-    </td>
-    <td align="center" width="240">
-      <a href="https://discord.com/users/512990966827974657">
-        <img src="https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=discord&logoColor=00F0FF" height="60" alt="Discord"/>
-      </a>
-      <br/><br/>
-      <b>DISCORD</b>
-      <br/>
-      <code>allcapitaldude</code>
-    </td>
-  </tr>
-</table>
+```
+[END TRANSMISSION]
+```
 
 </div>
