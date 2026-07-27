@@ -22,7 +22,7 @@
 ### 📡 Core Capabilities & System Architecture
 
 ```
-[SYSTEM LOG] Initializing execution runtime diagnostics...
+[SYSTEM LOG]   Initializing execution runtime diagnostics...
 [CAPABILITIES] Multi-threaded event loops & asynchronous network sockets verified.
 [SECURITY]     Local LLM threat forensics (DeepSeek-R1) & active kernel exile ready.
 ```
