@@ -1,89 +1,88 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=200&section=header&text=AVANDRA%20//%20SYSTEMS%20AND%20APPSEC&fontSize=36&fontColor=38bdf8&fontAlignY=35&desc=B.S.%20COMPUTER%20SCIENCE%20%7C%20LOW-LEVEL%20EXECUTION%20AND%20BLUE%20TEAM%20DEFENSE&descSize=13&descAlignY=62&descColor=94a3b8)
+![Header Banner](https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=200&section=header&text=AVANDRA%20//%20BLUE%20TEAM%20%26%20APPSEC&fontSize=34&fontColor=1D4ED8&fontAlignY=35&desc=B.S.%20COMPUTER%20SCIENCE%20%7C%20DEFENSIVE%20CYBERSECURITY%20%26%20ACTIVE%20SYSTEMS&descSize=13&descAlignY=62&descColor=94a3b8)
 
-### B.S. Computer Science @ Telkom University | Blue Team & AppSec Specialist
+### Defensive Cybersecurity Engineer & Systems Developer
 
 | Parameter | Specification |
 | :--- | :--- |
-| **ENGINEER** | **M. Avandra Lukito** |
-| **ACADEMIC TRACK** | **B.S. Computer Science** @ Telkom University Bandung |
-| **PRIMARY DOMAIN** | **Blue Team Active Defense** • **AppSec** • **Systems Engineering** |
-| **LOCATION** | **Bandung, Indonesia** `[UTC+7]` |
+| **Operator** | M. Avandra Lukito |
+| **Academic Track** | B.S. Computer Science @ Telkom University Bandung |
+| **Core Specialization** | Blue Team Engineering • Application Security (AppSec) • Active Network Defense |
+| **Location** | Bandung, Indonesia `[UTC+7]` |
 
 <br>
 
-[![Status](https://img.shields.io/badge/Status-Active_Development-0f172a?style=flat-square&logo=git&logoColor=38bdf8)](https://github.com/Doofusnotexpected?tab=overview)
-[![Flagship](https://img.shields.io/badge/Flagship-Aerogis--Sentinel-1e3a8a?style=flat-square&logo=shield&logoColor=38bdf8)](https://github.com/Doofusnotexpected/Aerogis-Sentinel)
-[![University](https://img.shields.io/badge/University-Telkom_Univ-0f172a?style=flat-square&logo=graduation-cap&logoColor=38bdf8)](https://telkomuniversity.ac.id)
-[![Email](https://img.shields.io/badge/Email-zarifalko24%40gmail.com-7f1d1d?style=flat-square&logo=gmail&logoColor=ef4444)](mailto:zarifalko24@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Direct_Message-1e3a8a?style=flat-square&logo=discord&logoColor=38bdf8)](https://discord.com/users/512990966827974657)
+[![Status](https://img.shields.io/badge/Status-Active_Development-0D1117?style=flat-square&logo=github&logoColor=1D4ED8)](https://github.com/Doofusnotexpected?tab=overview)
+[![Flagship](https://img.shields.io/badge/Flagship-Aerogis--Sentinel-0D1117?style=flat-square&logo=shield&logoColor=991B1B)](https://github.com/Doofusnotexpected/Aerogis-Sentinel)
+[![University](https://img.shields.io/badge/University-Telkom_Univ-0D1117?style=flat-square&logo=graduation-cap&logoColor=1D4ED8)](https://telkomuniversity.ac.id)
+[![Email](https://img.shields.io/badge/Email-zarifalko24%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=1D4ED8)](mailto:zarifalko24@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Direct_Comm-0D1117?style=flat-square&logo=discord&logoColor=1D4ED8)](https://discord.com/users/512990966827974657)
 
 </div>
 
 ---
 
-### 🛡️ About Me & Blue Team Operations
+### 🛡️ About Me & Blue Team Specialization
 
-I am a Computer Science student specializing in **Blue Team Active Defense**, **Threat Intelligence Systems**, and **Low-Level Software Engineering**. My primary focus centers on building resilient, automated defensive infrastructures that detect, analyze, and neutralize network intrusion vectors before host firewalls experience bottleneck latency.
+Computer Science undergraduate specializing in **Blue Team Operations**, **Defensive Cyber Engineering**, and **Low-Level Systems Security**. My core focus is architecting automated threat-mitigation pipelines, active honeypots, and asynchronous intrusion defense architectures capable of operating under high network stress.
 
-* **Blue Team Focus:** Real-time network telemetry analysis, automated threat mitigation, asynchronous honeypot architectures, and kernel-level IP exile protocols.
-* **AppSec & Systems Engineering:** Memory safety in C/C++, raw socket evaluation, zero-copy packet inspection, and local LLM threat forensics (DeepSeek-R1).
-* **Engineering Standard:** Zero bloat, low-latency execution, minimal attack surface, and maximum defensive throughput under heavy distributed stress.
+* **Defensive Focus:** Building proactive network defense cells, real-time threat detection pipelines, and automated IP exile systems.
+* **Systems Approach:** Engineering zero-bloat, low-latency defense tools in C++ and Python designed to minimize host resource consumption and eliminate firewall bottlenecks.
+* **AppSec & Forensics:** Developing stateful threat-logging models (SQLite) and local LLM threat forensics (DeepSeek-R1) to analyze vector patterns instantly.
 
 ---
 
-### 🛡️ Flagship Project: Aerogis-Sentinel
+### 📡 Flagship Platform: Aerogis-Sentinel
 
-> **Autonomous Blue Team Honeypot & Active Defense Matrix**
+> **Autonomous Cybersecurity Honeypot & Active Network Defense Cell**
 
-[Aerogis-Sentinel](https://github.com/Doofusnotexpected/Aerogis-Sentinel) is an asynchronous, high-throughput active defense system engineered to eliminate high-volume brute-force attacks in real time without introducing firewall overhead to production systems.
+[Aerogis-Sentinel](https://github.com/Doofusnotexpected/Aerogis-Sentinel) is an asynchronous active defense system built to detect, track, and isolate high-volume brute-force attacks in real time without introducing bottleneck latency to host firewalls.
 
-| Aspect | Engineering Specification |
+| Engineering Metric | Defensive System Telemetry |
 | :--- | :--- |
-| **Operational Domain** | Blue Team Network Defense, Automated Forensics & Active Mitigation |
-| **Architecture** | Multi-threaded asynchronous event engine powered by localized DeepSeek-R1 inference |
-| **Defense Mechanism** | Instant kernel-level IP exile, RAM-disk state tracking, zero-copy packet parsing |
-| **Stress Benchmark** | Neutralized a 16-thread Hydra brute-force swarm targeting a 14.3M password dictionary |
-| **Active Staging** | **Aerogis v13:** High-density threat vector processing & accelerated LLM analysis |
+| **Security Domain** | Blue Team Active Defense, Network Security & Automated Incident Mitigation |
+| **Engine Architecture** | Asynchronous multi-threaded event matrix integrating localized DeepSeek-R1 threat analysis |
+| **Mitigation Strategy** | Instant kernel-level IP exile, zero-copy packet evaluation, RAM-disk stateful SQLite tracking |
+| **Stress Benchmark** | Successfully neutralized a 16-threaded Hydra brute-force swarm against a 14.3M password dictionary |
+| **Staging Target** | **Aerogis v13:** High-density threat vector evaluation & accelerated local LLM inference pipelines |
 
 ---
 
-### 🛠️ Technical Stack & Security Tooling
+### 🛠️ Technical Stack
 
-#### Blue Team & Active Defense (Navy Accent)
-![Active Defense](https://img.shields.io/badge/Active_Defense-0f172a?style=flat-square&logo=shield&logoColor=38bdf8)
-![Network Security](https://img.shields.io/badge/Network_Security-0f172a?style=flat-square&logo=wireshark&logoColor=38bdf8)
-![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-0f172a?style=flat-square&logo=linux&logoColor=38bdf8)
-![SQLite Forensics](https://img.shields.io/badge/SQLite_Forensics-0f172a?style=flat-square&logo=sqlite&logoColor=38bdf8)
-![Python Async](https://img.shields.io/badge/Python_Async-0f172a?style=flat-square&logo=python&logoColor=38bdf8)
+#### Blue Team Engineering & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=1D4ED8)
+![Network Security](https://img.shields.io/badge/Network_Security-0D1117?style=flat-square&logo=wireshark&logoColor=1D4ED8)
+![AppSec](https://img.shields.io/badge/AppSec-0D1117?style=flat-square&logo=securityscorecard&logoColor=1D4ED8)
+![SQLite](https://img.shields.io/badge/SQLite_Forensics-0D1117?style=flat-square&logo=sqlite&logoColor=1D4ED8)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=1D4ED8)
 
-#### Red Team Analysis & Systems Programming (Maroon Accent)
-![AppSec Analysis](https://img.shields.io/badge/AppSec_Analysis-7f1d1d?style=flat-square&logo=securityscorecard&logoColor=ef4444)
-![C++ Systems](https://img.shields.io/badge/C%2B%2B_Systems-7f1d1d?style=flat-square&logo=cplusplus&logoColor=ef4444)
-![Bash Automation](https://img.shields.io/badge/Bash_Automation-7f1d1d?style=flat-square&logo=gnubash&logoColor=ef4444)
-![Lua Engine](https://img.shields.io/badge/Lua_Engine-7f1d1d?style=flat-square&logo=lua&logoColor=ef4444)
-![Git Control](https://img.shields.io/badge/Git_Version-7f1d1d?style=flat-square&logo=git&logoColor=ef4444)
+#### Core Languages & Analysis Tools
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=991B1B)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=991B1B)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=991B1B)
+![Lua](https://img.shields.io/badge/Lua-0D1117?style=flat-square&logo=lua&logoColor=991B1B)
 
 ---
 
-### 📊 GitHub Activity & Development Metrics
+### 📊 Development Metrics & Commit Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Doofusnotexpected&show_icons=true&theme=navy&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a&border_color=1e3a8a" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doofusnotexpected&layout=compact&theme=navy&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a&border_color=1e3a8a" width="48%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Doofusnotexpected&show_icons=true&theme=dark&bg_color=0D1117&title_color=1D4ED8&icon_color=1D4ED8&text_color=94a3b8&border_color=1e293b" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doofusnotexpected&layout=compact&theme=dark&bg_color=0D1117&title_color=1D4ED8&text_color=94a3b8&border_color=1e293b" width="48%" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Doofusnotexpected&theme=navy&background=0f172a&border=1e3a8a&stroke=38bdf8&alarm=ef4444&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doofusnotexpected&theme=dark&background=0D1117&stroke=1D4ED8&alarm=991B1B&fire=1D4ED8&ring=1D4ED8&currStreakLabel=1D4ED8)
 
 </div>
 
 ---
 
-### 📫 Get in Touch
+### 💬 Get in Touch
 
-* ![Email](https://img.shields.io/badge/-Email-0f172a?style=flat-square&logo=gmail&logoColor=38bdf8) **Email:** [zarifalko24@gmail.com](mailto:zarifalko24@gmail.com)
-* ![Discord](https://img.shields.io/badge/-Discord-0f172a?style=flat-square&logo=discord&logoColor=38bdf8) **Discord:** [Direct Message](https://discord.com/users/512990966827974657)
-* ![Location](https://img.shields.io/badge/-Location-0f172a?style=flat-square&logo=googlemaps&logoColor=38bdf8) **Location:** Bandung, Indonesia `[UTC+7]`
+* 📧 **Email:** [zarifalko24@gmail.com](mailto:zarifalko24@gmail.com)
+* 💬 **Discord:** [Direct Message](https://discord.com/users/512990966827974657)
+* 📍 **Location:** Bandung, Indonesia `[UTC+7]`
