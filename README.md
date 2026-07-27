@@ -71,3 +71,10 @@
 ![Avandra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doofusnotexpected&theme=dark&background=0D1117&stroke=00F0FF&alarm=FF2E54&fire=00F0FF&ring=00F0FF&currStreakLabel=00F0FF)
 
 </div>
+
+---
+
+### 📬 Connect & Telemetry
+
+[![Email](https://img.shields.io/badge/Email-zarifalko24%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00F0FF)](mailto:zarifalko24@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Direct_Message-0D1117?style=flat-square&logo=discord&logoColor=00F0FF)](https://discord.com/users/512990966827974657)
